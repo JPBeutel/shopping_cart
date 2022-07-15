@@ -1,0 +1,22 @@
+[
+  { 
+    "id": 1,
+    "name": "Blue Bandana",
+    "price": 7.99,
+    "imgUrl": "/assets/blue-bandana.jpg"
+  },
+
+  { 
+    "id": 2,
+    "name": "Red Bandana",
+    "price": 8.49,
+    "imgUrl": "/assets/red-bandana.jpg"
+  },
+
+  { 
+    "id": 3,
+    "name": "Green Bandana",
+    "price": 7.49,
+    "imgUrl": "/assets/green-bandana.jpg"
+  }
+]
